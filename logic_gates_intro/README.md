@@ -1,5 +1,4 @@
-# Create the README.md file for the logic_gates_intro project
-readme_content = """# Basic Logic Gates - Verilog Implementation
+
 
 This project implements a comprehensive set of fundamental logic gates using Verilog dataflow modeling. It serves as a verification study for basic combinatorial logic and the digital simulation workflow.
 
@@ -27,5 +26,5 @@ To run the simulation and view the waveforms on Ubuntu:
 1. **Compile the design and testbench**:
    ```bash
    iverilog -o gates_sim all_gates.v tb_all_gates.v
-2. Run: `gates_sim`
+2. Run: `vvp gates_sim`
 3. View: `gtkwave gates_sim.vcd`
