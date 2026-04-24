@@ -13,5 +13,5 @@ The design was verified using a testbench (`tb_half_adder.v`) that checks all bi
 
 ## How to Simulate
 1. Compile: `iverilog -o half_adder_sim half_adder.v tb_half_adder.v`
-2. Run: `vvp hlf_adder_sim`
+2. Run: `vvp half_adder_sim`
 3. View: `gtkwave half_adder_sim.vcd`
