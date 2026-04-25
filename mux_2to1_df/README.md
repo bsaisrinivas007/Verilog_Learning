@@ -27,3 +27,10 @@ The waveform visualization shows the signal transitions over time.
 
 * **0ns - 40ns (Sel = 0):** Output follows `a`.
 * **40ns - 80ns (Sel = 1):** Output follows `b`.
+
+## 🚀 How to Run
+To reproduce these results:
+
+1. Compile: `iverilog -o mux_sim mux_2to1_df.v tb_mux_2to1.v`
+2. Run: `vvp mux_sim`
+3. View Waveform: `gtkwave mux_2to1_df_sim.vcd`
