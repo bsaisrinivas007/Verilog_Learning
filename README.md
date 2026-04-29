@@ -8,3 +8,4 @@ My collection of hardware designs and simulations.
 4. [2:1 Mux (Dataflow)](./mux_2to1_df/)
 5. [2:1 Mux (Behavioral)](./mux_2to1_bh/)
 6. [4:1 Mux](./mux_4to1_circ/)
+7. [4 Bit Ripple Carry Adder(RCA)](./RCA_4bit/)
