@@ -10,3 +10,4 @@ My collection of hardware designs and simulations.
 6. [4:1 Mux](./mux_4to1_circ/)
 7. [4 Bit Ripple Carry Adder(RCA)](./RCA_4bit/)
 8. [Flip Flops](./flip_flops/)
+9. [4 bit RCA using FA and HA](./RCA_using_FA_and_HA/)
