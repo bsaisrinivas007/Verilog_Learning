@@ -13,7 +13,7 @@ The design is split into three hierarchical levels:
 
 ---
 
-### block diagram:-
+### Block diagram:-
 ```text
                   +-------------------------------------------------+
                   |                   RCA4 Module                   |
@@ -29,7 +29,7 @@ b[3:0] ----------->======+===========+===========+===========+====== |
 ```
 ---
 
-#### output and results:
+#### Output and Results:-
 
 the following commands are entered to get the outputs in the terminal:
 1. **```iverilog -o rca4sim RCA4_tb.v```** : Here I have already included rca4.v in tb file itself so it is not required to type in command.And also since we have also mentioned HA.v and FA.v in the files, they are also not required to enter in the command.
