@@ -1,6 +1,8 @@
 # Verilog Learning Journey
 My collection of hardware designs and simulations.
+I have done these projects in my ubuntu system, installed vscode, ikarus verilog and GTWave in mu ubuntu system.
 It is expected to have a ubuntu system and installed gtkwave,ikarus verilog and vscode to run these projects locally.
+
 
 # Projects
 1. [Logic Gates Intro](./logic_gates_intro)
@@ -13,3 +15,4 @@ It is expected to have a ubuntu system and installed gtkwave,ikarus verilog and 
 8. [Flip Flops](./flip_flops/)
 9. [4 bit RCA using FA and HA](./RCA_using_FA_and_HA/)
 10. [counters using flip flops(synchronous)](./counters_using_flip_flops/)
+11. [Code convereters](./code_converters/)

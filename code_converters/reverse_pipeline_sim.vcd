@@ -1,0 +1,121 @@
+$date
+	Sun Jul 19 17:01:33 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module gray_to_excess3_to_binary_tb $end
+$var wire 4 ! binary_out [3:0] $end
+$var reg 4 " gray_in [3:0] $end
+$var integer 32 # i [31:0] $end
+$scope module dut $end
+$var wire 4 $ gray_in [3:0] $end
+$var wire 4 % excess3_val [3:0] $end
+$var wire 4 & binary_out [3:0] $end
+$scope module u_g2b $end
+$var wire 4 ' g [3:0] $end
+$var wire 4 ( b [3:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b11 (
+b10 '
+b0 &
+b11 %
+b10 $
+b0 #
+b10 "
+b0 !
+$end
+#10
+b1 !
+b1 &
+b100 %
+b100 (
+b110 "
+b110 $
+b110 '
+b1 #
+#20
+b10 !
+b10 &
+b101 %
+b101 (
+b111 "
+b111 $
+b111 '
+b10 #
+#30
+b11 !
+b11 &
+b110 %
+b110 (
+b101 "
+b101 $
+b101 '
+b11 #
+#40
+b100 !
+b100 &
+b111 %
+b111 (
+b100 "
+b100 $
+b100 '
+b100 #
+#50
+b101 !
+b101 &
+b1000 %
+b1000 (
+b1100 "
+b1100 $
+b1100 '
+b101 #
+#60
+b110 !
+b110 &
+b1001 %
+b1001 (
+b1101 "
+b1101 $
+b1101 '
+b110 #
+#70
+b111 !
+b111 &
+b1010 %
+b1010 (
+b1111 "
+b1111 $
+b1111 '
+b111 #
+#80
+b1000 !
+b1000 &
+b1011 %
+b1011 (
+b1110 "
+b1110 $
+b1110 '
+b1000 #
+#90
+b1001 !
+b1001 &
+b1100 %
+b1100 (
+b1010 "
+b1010 $
+b1010 '
+b1001 #
+#100
+b1010 #
