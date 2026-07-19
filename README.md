@@ -16,3 +16,4 @@ It is expected to have a ubuntu system and installed gtkwave,ikarus verilog and 
 9. [4 bit RCA using FA and HA](./RCA_using_FA_and_HA/)
 10. [counters using flip flops(synchronous)](./counters_using_flip_flops/)
 11. [Code convereters](./code_converters/)
+12. [Up/Down Counter](./up_down_counter/)
