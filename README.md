@@ -1,9 +1,9 @@
 # Verilog Learning Journey
 My collection of hardware designs and simulations.
-I have done these projects in my ubuntu system, installed vscode, ikarus verilog and GTWave in mu ubuntu system.
-It is expected to have a ubuntu system and installed gtkwave,ikarus verilog and vscode to run these projects locally.
+I have done these projects in my Ubuntu system, using VS Code, Icarus Verilog, and GTKWave.
+It is expected to have an Ubuntu system with GTKWave, Icarus Verilog, and VS Code installed to run these projects locally.
 
-
+![Digital Circuit Architecture Matrix](./circuit_matrix.jpg)
 # Projects
 1. [Logic Gates Intro](./logic_gates_intro)
 2. [Half Adder](./half_adder)
