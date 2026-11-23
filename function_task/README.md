@@ -51,9 +51,9 @@ vvp func
 
 #### Expected Console Output
 ```text
-[PASS] t=36000 ns | 1010 ^ 1100 = 0110
-[PASS] t=56000 ns | 0101 ^ 0101 = 0000
-[PASS] t=76000 ns | 1111 ^ 0011 = 1100
+[PASS] t=36000  | 1010 ^ 1100 = 0110
+[PASS] t=56000  | 0101 ^ 0101 = 0000
+[PASS] t=76000  | 1111 ^ 0011 = 1100
 tb_xor_reg.v:76: $finish called at 96000 (1ps)
 ```
 *(Note: With `` `timescale 1ns / 1ps ``, `$time` reports in picoseconds, so `36000` equals `36 ns`.)*

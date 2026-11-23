@@ -49,9 +49,9 @@ module tb_xor_reg;
             exp_val = expected_xor(test_a, test_b);
 
             if (y_dut === exp_val)
-                $display("[PASS] t=%0t ns | %b ^ %b = %b", $time, test_a, test_b, y_dut);
+                $display("[PASS] t=%0t  | %b ^ %b = %b", $time, test_a, test_b, y_dut);
             else
-                $display("[FAIL] t=%0t ns | %b ^ %b = %b (Expected: %b)", $time, test_a, test_b, y_dut, exp_val);
+                $display("[FAIL] t=%0t | %b ^ %b = %b (Expected: %b)", $time, test_a, test_b, y_dut, exp_val);
         end
     endtask
 
