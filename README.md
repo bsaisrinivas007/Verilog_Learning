@@ -17,3 +17,4 @@ It is expected to have an Ubuntu system with GTKWave, Icarus Verilog, and VS Cod
 10. [counters using flip flops(synchronous)](./counters_using_flip_flops/)
 11. [Code convereters](./code_converters/)
 12. [Up/Down Counter](./up_down_counter/)
+13. [function and task](./function_task/)
